@@ -1,2 +1,2 @@
 # EvaluacionADSI
-Evaluación Parcial 2
+Repositorio para la evaluación parcial 2
